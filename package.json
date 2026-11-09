@@ -1,0 +1,1 @@
+{"name":"quiet-herbarium","version":"1.0.0","private":true,"description":"A quiet illustrated forest walk, built with Phaser and TypeScript","scripts":{"build":"node build.cjs","dev":"node serve.cjs"},"devDependencies":{"typescript":"5.9.3"}}
